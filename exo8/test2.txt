@@ -1,0 +1,1 @@
+(motcle, if) (Const, 20)(opera, >)(Ident, les) (Ident, then) 
